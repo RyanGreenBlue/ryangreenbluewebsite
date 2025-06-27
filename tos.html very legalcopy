@@ -1,0 +1,100 @@
+<html>
+  <head>
+    <!--
+    <link rel="stylesheet" href="style.css" />
+      <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://cdn.glitch.global/af76fba2-23f6-4377-852b-bf2d95acdaa3/favicon.jpg?v=1668452936479"
+    /> !-->
+    <style>
+      h1 {
+        text-align: center;
+      }
+      h2 {
+        text-align: center;
+      }
+      p {
+        text-align: center;
+      }
+      body {
+  margin: auto;
+  width: 640px; 
+  padding: 50px;
+  color: #000000;    
+}
+    </style>
+  </head>
+  <body>
+    <h1>RyanGreenBlue's Terms of Service</h1>
+    <p>
+      All clients must submit through the Google Form linked in the COMMISSIONS section of the website.
+      <br /><br />
+    </p>
+
+    <!-- TEMPLATE !-->
+    <h2>PAYMENT.</h2>
+    <p>
+      Payment in full is required before I begin any work on Client’s material.
+      These will be done through PayPal invoices which I will send to Client. <br /><br />
+    </p>
+
+    <!-- TEMPLATE !-->
+
+    <h2>PRIVATE vs COMMERCIAL Projects.</h2>
+    <p>Private projects, like projects (mixing, mastering, production) 
+      for Client's albums, singles, etc. 
+      to be posted on Music Distributors can be ordered through
+      the commission form.
+    Commercial projects, like advertisements,
+      synchronization work (video game soundtracks, film soundtracks, etc.)
+    need to be disclosed in emails and cannot be ordered through the commission form.<br /><br /></p>
+    
+
+    <h2>LIMITATION OF LIABILITY.</h2><p>
+    RyanGreenBlue shall not be liable under any circumstances
+    for any incidental or consequential loss or damages,
+    including but not limited to loss of profits,
+    and the Client expressly waives any and all claims
+    for any such loss or damages.
+    Under no circumstances shall RyanGreenBlue’s liability exceed,
+    nor shall Client’s available remedies extend beyond
+    return of the full fees or charges paid for any services provided by RyanGreenBlue.
+    </p>
+
+    <h2>REFUND POLICY.</h2>
+    <p>
+    
+    </p>
+
+    <h2>REVISIONS.</h2>
+    <p>
+      Client will get two Revisions.
+      What IS covered by a revision: You’d like the volume
+      of an instrument and/or vocal adjusted. You’d like effects adjusted (i.e.
+      more reverb, less delay) What is NOT covered by a revision: Does
+      not include arrangement changes: Things like creating drops, stop effects
+      and mutes.
+      As I work, I will send updates in .mp3, this is the best time for feedback!
+      Any extra revisions will cost an extra fee.
+    </p>
+
+    <h2>
+      PORTFOLIO
+    </h2>
+    <p>
+    By accepting these terms and conditions you allow RyanGreenBlue the option to 
+      publish the name and album art of your record under his Portfolio.
+      The Client retains all rights to these properties.
+    </p>
+    
+    <h2>
+      CREDIT
+    </h2>
+    <p>
+    By accepting these terms and conditions you allow RyanGreenBlue the option to 
+      ask for credit as RyanGreenBlue.
+    </p>
+    
+  </body>
+</html>

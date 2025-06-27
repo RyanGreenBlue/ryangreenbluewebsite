@@ -1,0 +1,175 @@
+@font-face {
+  font-family: "vga";
+  src: url("https://cdn.glitch.global/af76fba2-23f6-4377-852b-bf2d95acdaa3/vga.ttf?v=1668452386084");
+}
+
+@keyframes blink{
+  0% {
+    color: white;
+  }
+  49.999% {
+    color: white;
+  }
+  50% {
+    color: #aaaaaa;
+  }
+  99.999% {
+    color: #aaaaaa;
+  }
+  100% {
+    color: white;
+  }
+}
+
+@keyframes deny{
+  0% {
+    background-color: #ff0000;
+  }
+  100% {
+    background-color: #ffffff;
+  }
+}
+
+a {
+  color: #ffffff;
+}
+
+html {
+  font-family: "vga";
+  background-color: #000000;
+  color: #ffffff;
+  margin: 0px;
+  padding: 0px;
+}
+
+initinv {
+  visibility: hidden;
+  padding:0px 0px;
+  margin:0px 0px;
+}
+
+.blink {
+  animation: blink linear 1000ms infinite; /* Blink rate */
+}
+
+tx {
+  display: block;
+  visibility: hidden;
+}
+
+txh {
+  display: block;
+  color: black;
+}
+
+.hl {
+  background-color: white;
+  color: black;
+}
+
+.deny {
+  animation: deny linear 400ms;
+  background-color: white;
+  color: black;
+}
+
+.btm {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+
+.right {
+  float: right;
+}
+
+.jch {
+  display: inline;
+  cursor: pointer;
+  user-select: none;
+}
+
+.jch:hover {
+  cursor: pointer;
+  background-color: #00ffff; /* Colour when text boxes are hovered over [CYAN] */
+  color: black;
+}
+
+.flex {
+  display: flex;
+}
+
+fill {
+  width: 100%;
+}
+
+input {
+  background-color: #00000000;
+  color: #00ff00;
+  border: none;
+  outline: none;
+  font-size: inherit;
+  font-family: inherit;
+}
+
+discreet-scrollbox {
+  overflow: auto;
+  display: block;
+}
+
+.return {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
+
+#mcbod {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 16px;
+  width: 800px;
+  height: 600px;
+}ight: var(--image-max-width);
+  margin-top: var(--image-margin);
+
+
+/* Instructions */
+.instructions {
+  margin: 1rem auto 0;
+}
+
+/* Button - Add it from the README instructions */
+button,
+input {
+  font-family: inherit;
+  font-size: 100%;
+  background: #FFFFFF;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  transition: 500ms;
+}
+
+/* Subheading */
+h2 {
+  color: #2800FF;
+}
+
+/* Interactive image */
+.illustration:active {
+  transform: translateY(0px);
+}
+
+/* Button dip
+- Toggling this class on and off will move it down and up again
+- The button transition property above determines the speed of the translate (500ms)
+*/
+.dipped {
+  transform: translateY(0px);
+}
+
+
