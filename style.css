@@ -1,6 +1,6 @@
 @font-face {
   font-family: "vga";
-  src: url("https://cdn.glitch.global/af76fba2-23f6-4377-852b-bf2d95acdaa3/vga.ttf?v=1668452386084");
+  src: url("https://cdn.glitch.global/af76fba2-23f6-4377-852b-bf2d95acdaa3/vga.ttf?v=1668452386084"); /* CHANGE THIS LINK TO POINT TO vga.ttf ! */
 }
 
 @keyframes blink{
@@ -132,9 +132,11 @@ discreet-scrollbox {
   font-size: 16px;
   width: 800px;
   height: 600px;
-}ight: var(--image-max-width);
+  /*
+  height: var(--image-max-width); unsure why this is here ngl this is too old
   margin-top: var(--image-margin);
-
+  */ 
+}
 
 /* Instructions */
 .instructions {
