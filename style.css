@@ -37,3 +37,17 @@ a:link:hover {
     text-decoration: underline;
 
 }
+
+.player {
+
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+
+}
+
+.player audio {
+
+    width: 200px;
+
+}
